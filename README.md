@@ -9,5 +9,5 @@ after a long wait, you will get .csv file named byweb2007.csv containing a corpu
 
 Links:
 - byweb2007 corpus: https://yadi.sk/d/Nhq0hwoeLada0Q
-- tasks_description: http://romip.ru/tasks/2008/web2008_adhoc.xml.bz2 
-- relevance_tables: http://romip.ru/relevance-tables/ru/index.html 
+- tasks description table: http://romip.ru/tasks/2008/web2008_adhoc.xml.bz2 
+- relevance tables: http://romip.ru/relevance-tables/ru/index.html 
